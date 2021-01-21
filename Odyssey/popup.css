@@ -1,0 +1,21 @@
+#play {
+    background-image: url("images/play-button-arrowhead.png");
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+    border: hidden;
+}
+#stop {
+    background-image: url("images/stop.png");
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+    border: hidden;
+}
+#pause {
+    background-image: url("images/pause.png");
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+    border: hidden;
+}
