@@ -12,6 +12,8 @@
         "default_icon": "icons/icon16.png",
         "default_popup": "popup.html"
     },
-    "omnibox": {"keyword" : "@Odyssey"}
+    "omnibox": {"keyword" : "@Odyssey"},
+
+    "content_security_policy": "script-src 'self' https://www.youtube.com ; object-src 'self'"
     
 }
